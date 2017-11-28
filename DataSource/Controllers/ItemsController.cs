@@ -11,11 +11,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 namespace DataSource
 {
-    [Route( "api/Items")]
+    [Route("api/[controller]")]
     // [EnableCors("MyPolicy")]
    public class  ItemController : Controller
     {
-        [HttpGet("{Id}")]
+       
         public Item Get(int Id)
         {
             Items css = new Items();

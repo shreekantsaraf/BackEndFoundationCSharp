@@ -28,7 +28,7 @@ namespace DataSource
             //         .AllowAnyHeader();
             // }));
             services.AddCors();
-            services.AddMvc();
+            services.AddMvc().AddXmlSerializerFormatters();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,6 +43,8 @@ namespace DataSource
             app.UseCors(builder => builder.AllowAnyOrigin());//.AllowAnyHeader().AllowAnyMethod());
 
 
+            //app.UseMvcWithDefaultRoute();
+            //app.UseMvc(o => o.MapRoute("App","app/{controller}/{action}/{Id?}"));
             app.UseMvcWithDefaultRoute();
 
         }
