@@ -1,0 +1,10 @@
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\obj\Debug\netcoreapp2.0\DataSource.csproj.CoreCompileInputs.cache
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\obj\Debug\netcoreapp2.0\DataSource.AssemblyInfoInputs.cache
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\obj\Debug\netcoreapp2.0\DataSource.AssemblyInfo.cs
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\bin\Debug\netcoreapp2.0\DataSource.deps.json
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\bin\Debug\netcoreapp2.0\DataSource.runtimeconfig.json
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\bin\Debug\netcoreapp2.0\DataSource.runtimeconfig.dev.json
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\bin\Debug\netcoreapp2.0\DataSource.dll
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\bin\Debug\netcoreapp2.0\DataSource.pdb
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\obj\Debug\netcoreapp2.0\DataSource.dll
+E:\Projects\DotNetCore\BackEndFoundationCSharp\DataSource\obj\Debug\netcoreapp2.0\DataSource.pdb
